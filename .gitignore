@@ -1,6 +1,6 @@
 .project
 .pydevproject
-
+*.data
 #http://github.com/github/gitignore
 *.py[co]
 
